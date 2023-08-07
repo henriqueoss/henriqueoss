@@ -6,7 +6,7 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/hotavio70/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henriqueoss/)
 
-![Henrique Otávio GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueoss&show_icons=true&theme=tokyonight)
+
 
 ### Tecnologias que eu uso
 <div style="display: inline_block"></br>
